@@ -7,7 +7,7 @@
 ## 🖋️Self-introduction
 - **Name:** Truong Van Khai.
 - **Date of birth:** 09/06/2003.
-- **Hometown:** Kon Tum, Viet Nam.
+- **Come From:** Kon Tum, Viet Nam.
 - **Studying at:** Ho Chi Minh University of Information and Technology.
 - **Class:** KHNT 2021.
 - **Major:** Computer Science (Artificial Intelligence).
