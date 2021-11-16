@@ -1,4 +1,6 @@
 
+<img src="/preview.jpg" alt="banner" />
+
 # Welcome to my Profile !!!
 ---
 ## Self-introduction
