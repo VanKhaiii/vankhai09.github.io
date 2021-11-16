@@ -21,8 +21,15 @@
 - The team participated in 2 National Competitions for excellent students in Physics (2019 - 2020 and 2020 - 2021).
 - Third prize in the Provincial Competition for excellent students in Physics.
 
-## Contact me
-- Email: 21520274@gm.uit.edu.vn
-- Facebook: [Facebook]( https://www.facebook.com/hiho.hihu.9/)
+## Send me a message!
+- I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
+
+<p>
+  <a href="https://studio.youtube.com/channel/UCsIkUJmZMdl8j9qYTWHalZA">
+    <img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/tvk_0906/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+</p>
 
 
