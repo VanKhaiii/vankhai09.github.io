@@ -1,28 +1,28 @@
 
 
 
-# :male_sign:Welcome to my Profile:male_sign: !!!
+# Welcome to my Profile !!!
 ---
 ---
-## :fountain_pen:Self-introduction
+## Self-introduction
 - **Name:** Truong Van Khai.
 - **Date of birth:** 09/06/2003.
 - **Hometown:** Kon Tum, Viet Nam.
 - **Studying at:** Ho Chi Minh University of Information and Technology.
 - **Class:** KHNT 2021.
 - **Major:** Computer Science.
-- **Favourite:** :desktop_computer: Learning code , :soccer: Playing football, :headphones: Music, :trophy:3 Cushion Billiards.
+- **Favourite:** Learning code , Playing football, Music, Cushion Billiards.
 
-## :fountain_pen:Education
-- 2018 - 2021: :school: Nguyen Tat Thanh Specialized and Gifted High School.
-- 2021 - now: :office: Ho Chi Minh University of Information and Technology
+## Education
+- 2018 - 2021: : Nguyen Tat Thanh Specialized and Gifted High School.
+- 2021 - now: : Ho Chi Minh University of Information and Technology
 
-## :fountain_pen:Achievements
-- :medal_military: The team participated in 2 National Competitions for excellent students in Physics (2019 - 2020 and 2020 - 2021).
-- :3rd_place_medal: Third prize in the Provincial Competition for excellent students in Physics.
+## Achievements
+- The team participated in 2 National Competitions for excellent students in Physics (2019 - 2020 and 2020 - 2021).
+- Third prize in the Provincial Competition for excellent students in Physics.
 
-## :fountain_pen:Send me a message!
-- :calling: I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
+## Send me a message!
+- I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
 
 
   <a href="https://studio.youtube.com/channel/UCsIkUJmZMdl8j9qYTWHalZA">
