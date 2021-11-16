@@ -10,7 +10,7 @@
 - **Hometown:** Kon Tum, Viet Nam.
 - **Studying at:** Ho Chi Minh University of Information and Technology.
 - **Class:** KHNT 2021.
-- **Major:** Computer Science.
+- **Major:** Computer Science (Artificial Intelligence).
 - **Favourite:** 🖥️Learning code ,⚽Playing football, 🎧Music, 🏆Cushion Billiards.
 
 ## 🖋️Education
