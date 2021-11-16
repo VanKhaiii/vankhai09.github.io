@@ -27,11 +27,11 @@
 
   <a href="https://www.facebook.com/hiho.hihu.9/">
   <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
+  <a href="https://www.instagram.com/tvk_0906/">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   <a href="https://studio.youtube.com/channel/UCsIkUJmZMdl8j9qYTWHalZA">
   <img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.instagram.com/tvk_0906/">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-512BD4?logo=gmail&logoColor=white&style=for-the-badge" />
 
 
