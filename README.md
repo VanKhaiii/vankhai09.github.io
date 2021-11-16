@@ -1,7 +1,7 @@
 
 
 
-# Welcome to my Profile !!!
+# Welcome to my Profile !!
 ---
 ---
 ## Self-introduction
@@ -11,7 +11,7 @@
 - **Studying at:** Ho Chi Minh University of Information and Technology.
 - **Class:** KHNT 2021.
 - **Major:** Computer Science.
-- **Favourite:** Learning code , Playing football, Music, Cushion Billiards.
+- **Favourite:** 🖥️Learning code ,⚽Playing football, 🎧Music, 🏆Cushion Billiards.
 
 ## Education
 - 2018 - 2021: : Nguyen Tat Thanh Specialized and Gifted High School.
