@@ -1,5 +1,5 @@
 
-<img src="/preview.jpg" alt="banner" />
+
 
 # Welcome to my Profile !!!
 ---
@@ -24,12 +24,12 @@
 ## Send me a message!
 - I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
 
-<p>
+
   <a href="https://studio.youtube.com/channel/UCsIkUJmZMdl8j9qYTWHalZA">
-    <img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
+  <img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.instagram.com/tvk_0906/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
 
 
 
