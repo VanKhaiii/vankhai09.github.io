@@ -1,10 +1,10 @@
 
 
 
-# Welcome to my Profile !!
+# 🖐️Welcome to my Profile🖐️
 ---
 ---
-## Self-introduction
+## 🖋️Self-introduction
 - **Name:** Truong Van Khai.
 - **Date of birth:** 09/06/2003.
 - **Hometown:** Kon Tum, Viet Nam.
@@ -13,16 +13,16 @@
 - **Major:** Computer Science.
 - **Favourite:** 🖥️Learning code ,⚽Playing football, 🎧Music, 🏆Cushion Billiards.
 
-## Education
-- 2018 - 2021: : Nguyen Tat Thanh Specialized and Gifted High School.
-- 2021 - now: : Ho Chi Minh University of Information and Technology
+## 🖋️Education
+- 2018 - 2021: : 🏫Nguyen Tat Thanh Specialized and Gifted High School.
+- 2021 - now: : 🏢Ho Chi Minh University of Information and Technology
 
-## Achievements
-- The team participated in 2 National Competitions for excellent students in Physics (2019 - 2020 and 2020 - 2021).
-- Third prize in the Provincial Competition for excellent students in Physics.
+## 🖋️Achievements
+- 🎖️The team participated in 2 National Competitions for excellent students in Physics (2019 - 2020 and 2020 - 2021).
+- 🥉Third prize in the Provincial Competition for excellent students in Physics.
 
-## Send me a message!
-- I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
+## 🖋️Send me a message!
+- 📲I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
 
 
   <a href="https://www.facebook.com/hiho.hihu.9/">
