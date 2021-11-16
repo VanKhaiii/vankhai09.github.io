@@ -30,6 +30,6 @@
   </a>
   <a href="https://www.instagram.com/tvk_0906/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-</p>
+
 
 
